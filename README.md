@@ -1,4 +1,4 @@
 blinkenstick
 ============
 
-Persistence of Vision using EFM32GG
+Persistence of Vision & light paiting using the Raspberry Pi.
