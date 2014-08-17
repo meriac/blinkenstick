@@ -84,7 +84,7 @@ int main(int argc, char *argv[])
 	{
 		for(y=0; y<height; y++)
 		{
-			pixel = png[y][x];
+			pixel = png[height-y-1][x];
 			line[y].r = pixel.red;
 			line[y].g = pixel.green;
 			line[y].b = pixel.blue;
